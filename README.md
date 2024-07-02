@@ -161,11 +161,84 @@ This section provides details and insights into the inner workings of the payrol
 
 ### Use Case Diagram
 
-[Insert Use Case Diagram here]
+```plaintext
+The use case diagram illustrates the various interactions between different actors and the payroll system. Below is an explanation of the use case diagram components:
+
+Actors:
+- Employee: Interacts with personal account details, attendance records, payslip viewing, leave requests, and time tracking.
+- Payroll Administrator: Manages payroll reports, payslip generation, and payroll summaries.
+- IT Administrator: Handles system security and user role management.
+- HR Administrator: Manages employee records, attendance, leave requests, and approvals.
+
+Use Cases:
+- Employee:
+  - Time Tracking: Records time in and time out.
+  - View Payslip: Access payslips by month or year.
+  - View Leave Status: Check approved leave request status.
+  - Login: Secure access to the system.
+  - Manage Leave: View remaining leave credits and submit leave requests.
+
+- IT Administrator:
+  - Role Management: Administers role-based access control.
+  - User Management: Manages user accounts.
+
+- Payroll Administrator:
+  - Generate Reports: Creates monthly payroll reports and summaries.
+  - Generate Payslip: Calculates and saves employee payslips.
+
+- HR Administrator:
+  - Employee Management: Adds, modifies, and deletes employee records.
+  - Attendance and Leave: Monitors attendance records and manages leave requests.
+
+Interactions:
+- All actors log in to access their respective functionalities.
+- Generate Payslip involves computing allowances, deductions, and saving payslips.
+- Role-Based Access Control ensures secure user access across the system.
+- HR Administrator manages employee records, attendance, and leave requests.
 
 ### Class Diagram
 
-[Insert Class Diagram here]
+This class diagram illustrates the relationships and dependencies between key classes in the payroll system, defining how data flows and interacts within the system's architecture.
+
+Classes and Associations:
+- Employee
+  - 1..* Department
+  - 1..* Allowance
+  - 1..1 Timesheet (Composition)
+  - 1..* Payslip (Aggregation)
+  - 1..1 User (Association)
+  - 1..* Role (Aggregation)
+  - 1..* LeaveRequest (Association)
+
+- Allowance
+  - 1..* Employee
+
+- EmployeePayrollSummaryReport
+  - 1..* Deduction (Composition)
+  - 1..* Timesheet (Composition)
+  - 1..1 Payslip (Aggregation)
+
+- Tax
+  - 1..1 TaxCategory (Association)
+
+- Timesheet
+  - 1..1 Employee
+
+- Payslip
+  - 1..* PayslipViewer (Association)
+  - 1..* PayslipImpl (Inheritance)
+
+- User
+  - 1..1 Employee
+
+- Role
+  - 1..1 Permission (Aggregation)
+
+- Position
+  - 1..* Employee
+
+- LeaveRequest
+  - 1..1 LeaveRequestCategory (Association)
 
 ### Testing
 
