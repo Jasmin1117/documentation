@@ -46,7 +46,7 @@ This section covers various user-related actions within the system. The function
 4. Configure your SDK to Java 21.
 5. Build and run the application.
 
-![login](https://github.com/Jasmin172002/documentation/assets/125138169/d11b2a9f-7d9a-4174-949c-0a953b54d87b)
+<img src="https://github.com/Jasmin172002/documentation/assets/125138169/d11b2a9f-7d9a-4174-949c-0a953b54d87b" alt="login" width="500">
 
 #### Log in with Valid Credentials:
 1. Click on the username text field and type the username.
