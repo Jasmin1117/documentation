@@ -261,7 +261,7 @@ Interactions:
 
 ### Class Diagram
 
-[![AOOP_S2101 (2)](https://github.com/Jasmin172002/documentation/assets/125138169/51cd60f5-bbad-4315-8ab6-4a4528e4442c)](https://github.com/Jasmin172002/documentation/assets/125138169/51cd60f5-bbad-4315-8ab6-4a4528e4442c)
+[![AOOP_S2101 (3)](https://github.com/Jasmin172002/documentation/assets/125138169/6f12c90b-2fd4-47ce-8e9d-b4e0de974db1)](https://github.com/Jasmin172002/documentation/assets/125138169/6f12c90b-2fd4-47ce-8e9d-b4e0de974db1)
 <small>Figure 2: Class Diagram of the Expanded Payroll System</small>
 
 This class diagram illustrates the relationships and dependencies between key classes in the payroll system, defining how data flows and interacts within the system's architecture.
