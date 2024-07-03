@@ -297,6 +297,23 @@ Classes and Associations:
 - LeaveRequest
   - 1..1 LeaveRequestCategory (Association)
 
-### Testing
+### Internal Testing
 
-[Insert Testing details here]'
+[![1test](https://github.com/Jasmin172002/documentation/assets/125138169/12b9a86e-1398-4382-ac1e-17e56a6415ba)](https://github.com/Jasmin172002/documentation/assets/125138169/12b9a86e-1398-4382-ac1e-17e56a6415ba)
+
+Employee Information Management: All tests passed, ensuring accurate creation, viewing, and updating of employee details.
+
+
+[![2test](https://github.com/Jasmin172002/documentation/assets/125138169/a1e36b4a-8851-4a7c-af65-dd98af9ea920)](https://github.com/Jasmin172002/documentation/assets/125138169/a1e36b4a-8851-4a7c-af65-dd98af9ea920)
+
+Time and Attendance Tracking: Successfully created and updated timesheets with accurate data security measures.
+
+[![3test](https://github.com/Jasmin172002/documentation/assets/125138169/c153a593-0563-4d81-8be1-3e0ee41edf22)](https://github.com/Jasmin172002/documentation/assets/125138169/c153a593-0563-4d81-8be1-3e0ee41edf22)
+
+Salary Calculation: Passed all tests for deduction, gross salary computation, and net salary computation.
+
+
+[![4test](https://github.com/Jasmin172002/documentation/assets/125138169/76630b40-d215-4dd8-9519-22f30300a7fc)](https://github.com/Jasmin172002/documentation/assets/125138169/76630b40-d215-4dd8-9519-22f30300a7fc)
+
+Leave Management: Successfully managed leave requests, ensuring accurate initialization and deduction of leave credits
+
