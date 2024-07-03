@@ -33,6 +33,61 @@
 
 Welcome to the MotorPH Payroll System user guide. This document is designed to provide a comprehensive overview of the system's features and functionalities, ensuring that all users can effectively utilize the platform to manage payroll, employee information, and related tasks. The guide is intended for various user roles within the organization, including system administrators, HR administrators, payroll administrators, and employees. It provides step-by-step instructions, detailed explanations, and practical tips to help you navigate and make the most of the system.
 
+### User Roles
+
+- **System Administrator:** Responsible for managing user accounts, setting access levels, and ensuring the overall security and functionality of the system.
+- **HR Administrator:** Handles employee information management, including adding, editing, viewing, and deleting employee records. Also responsible for managing leave requests.
+- **Payroll Administrator:** Focuses on generating and saving payslips, ensuring accurate payroll processing, and producing detailed payroll reports.
+- **Employee:** Accesses the self-service portal to view personal information, record attendance, submit leave requests, and view payslips.
+
+### Navigating The User Guide
+
+- **Table of Contents:** Start here to quickly locate the section relevant to your needs. Each entry links directly to the corresponding page.
+- **Introduction and User Roles:** Begin with these sections to understand the purpose of the system and identify your specific role.
+- **Step-by-Step Instructions:** Each functionality is broken down into detailed steps, making it easy to follow along and execute tasks within the system.
+- **Screenshots and Diagrams:** Visual aids are provided to illustrate key points and help you familiarize yourself with the interface.
+- **Tips and Best Practices:** Look for highlighted tips and best practices to enhance your efficiency and avoid common pitfalls.
+- **FAQs and Troubleshooting:** Refer to this section for answers to common questions and solutions to potential issues you may encounter.
+
+---
+
+## Getting Started
+
+This section outlines the fundamental requirements for using the payroll system, including hardware or software prerequisites. It also explains how you can access the system, whether through a web link or dedicated application.
+
+### Hardware Prerequisites
+
+To use the payroll system efficiently, ensure your hardware meets the following minimum requirements:
+- Processor: Dual-core processor (2 GHz or faster)
+- Memory: 4 GB RAM or more
+- Storage: At least 500 MB of free disk space
+- Display: 1024 x 768 resolution or higher
+
+### Software Prerequisites
+
+Before accessing the payroll system, make sure you have the following software installed:
+- Operating System: Windows 10 or later, macOS 10.14 or later, or a modern Linux distribution
+- Java Development Kit (JDK): Version 21
+- Web Browser: Latest version of Google Chrome, Mozilla Firefox, Microsoft Edge, or Safari
+- Integrated Development Environment (IDE): IntelliJ IDEA, Eclipse, or VS Code (for developers)
+- Version Control System: Git
+
+### Accessing The System
+
+Follow these steps to access the payroll system:
+- **Web Access:**
+  - Open your web browser.
+  - Enter the URL provided by your administrator to access the payroll system's web portal.
+- **Desktop Application:**
+  - If using a dedicated desktop application, download and install the application from the provided link.
+  - Launch the application from your desktop or applications menu.
+- **Developer Access:**
+  - Clone the repository using Git: `git clone [repository URL]`
+  - Open the project in your preferred IDE.
+  - Navigate to `MainApp.java`, configure the SDK to Java 21, build, and run the application as described previously.
+
+---
+
 ## Using The Payroll System
 
 This section covers various user-related actions within the system. The functionalities of the payroll system include the following:
