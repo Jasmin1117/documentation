@@ -186,15 +186,6 @@ The system will display a list of employees for the specified period, including 
 1. Click "Payslip" and select a payslip from the list.
 2. Your electronic payslip is displayed, containing earnings, deductions, benefits, and summary.
 
-### Reporting Capabilities for Finance
-
-#### Generate Payslip Reports:
-1. Click "Generate Payslip".
-2. Select start pay date and end pay date.
-3. Click "Execute" to review the generated payslips of all employees. The list of employees for the specified period is displayed, including employee info, earnings, deductions, benefits, and summary with take-home pay.
-
-The system includes a dashboard for reporting and analytics, providing insights into payroll trends, employee attendance patterns, and leave utilization.
-
 ### System Administrator Functionalities
 
 #### Add New User:
@@ -222,7 +213,7 @@ This section provides details and insights into the inner workings of the payrol
 
 ### Use Case Diagram
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/4db3b507-c970-4494-ade5-8b21aa7bc433" alt="Use Case Diagram" width="500"/>
+[![UseCaseDiagram](https://github.com/Jasmin172002/documentation/assets/125138169/4db3b507-c970-4494-ade5-8b21aa7bc433)](https://github.com/Jasmin172002/documentation/assets/125138169/4db3b507-c970-4494-ade5-8b21aa7bc433)
 <small>Figure 1: Use Case Diagram of the Expanded Payroll System</small>
 
 The use case diagram illustrates the various interactions between different actors and the payroll system. Below is an explanation of the use case diagram components:
