@@ -297,7 +297,7 @@ Classes and Associations:
 - LeaveRequest
   - 1..1 LeaveRequestCategory (Association)
 
-### Internal Testing
+### Testing
 
 
 Employee Information Management: All tests passed, ensuring accurate creation, viewing, and updating of employee details.
