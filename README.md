@@ -53,9 +53,13 @@ This section covers various user-related actions within the system. The function
 2. Click on the password text field and type the password.
 3. Click the Login button to access your profile page.
 
+<img src="https://github.com/Jasmin172002/documentation/assets/125138169/10f8fbb0-06ff-4356-a376-c5d4c8112997" alt="loginsuc" width="500">
+
 #### Log in with Invalid Credentials:
 1. Click on the username text field and type an incorrect username or password.
 2. Click the Login button to see an error message stating, "We couldn't find an account that matches what you entered."
+
+<img src="https://github.com/Jasmin172002/documentation/assets/125138169/8825ce15-33b3-476b-9f43-64486adac451" alt="loginnot" width="500">
 
 ### Payroll Generation Capability
 
