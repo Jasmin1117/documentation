@@ -82,7 +82,7 @@ Follow these steps to access the payroll system:
   - If using a dedicated desktop application, download and install the application from the provided link.
   - Launch the application from your desktop or applications menu.
 - **Developer Access:**
-  - Clone the repository using Git: `git clone [repository URL]`
+  - Clone the repository using Git
   - Open the project in your preferred IDE.
   - Navigate to `MainApp.java`, configure the SDK to Java 21, build, and run the application as described previously.
 
@@ -222,7 +222,9 @@ This section provides details and insights into the inner workings of the payrol
 
 ### Use Case Diagram
 
-```plaintext
+<img src="https://github.com/Jasmin172002/documentation/assets/125138169/4db3b507-c970-4494-ade5-8b21aa7bc433" alt="Use Case Diagram" width="500"/>
+<small>Figure 1: Use Case Diagram of the Expanded Payroll System</small>
+
 The use case diagram illustrates the various interactions between different actors and the payroll system. Below is an explanation of the use case diagram components:
 
 Actors:
@@ -258,6 +260,9 @@ Interactions:
 - HR Administrator manages employee records, attendance, and leave requests.
 
 ### Class Diagram
+
+[![AOOP_S2101 (2)](https://github.com/Jasmin172002/documentation/assets/125138169/51cd60f5-bbad-4315-8ab6-4a4528e4442c)](https://github.com/Jasmin172002/documentation/assets/125138169/51cd60f5-bbad-4315-8ab6-4a4528e4442c)
+<small>Figure 2: Class Diagram of the Expanded Payroll System</small>
 
 This class diagram illustrates the relationships and dependencies between key classes in the payroll system, defining how data flows and interacts within the system's architecture.
 
