@@ -210,6 +210,19 @@ The system will display a list of employees for the specified period, including 
 
 <img src="https://github.com/Jasmin172002/documentation/assets/125138169/d194b470-4fca-4192-b773-29ed95b9565a" alt="payslipv" style="width:500px;">
 
+### Reporting Capabilities for Finance
+
+#### Generate Payslip Reports:
+
+1. Click "Generate Payslip".
+2. Select start pay date and end pay date.
+3. Click "Execute" to review the generated payslips of all employees. The list of employees for the specified period is displayed, including employee info, earnings, deductions, benefits, and summary with take-home pay.
+4. The system includes a dashboard for reporting and analytics, providing insights into payroll trends, employee attendance patterns, and leave utilization.
+
+<img src="https://github.com/Jasmin172002/documentation/assets/125138169/19296a34-9114-4368-96dc-4c4556258216" alt="generatepaylip" width="500"/>
+
+<img src="https://github.com/Jasmin172002/documentation/assets/125138169/e6ece67b-6a3b-48f0-a3e0-c408c184fb27" alt="fdashboard" style="width:500px;">
+
 ### System Administrator Functionalities
 
 #### Add New User:
