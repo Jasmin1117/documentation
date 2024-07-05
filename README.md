@@ -124,6 +124,8 @@ This section covers various user-related actions within the system. The function
 3. Click "Execute" to review the generated payslips.
 4. Click "Save" and confirm the prompt to save the payslips.
 
+<img src="https://github.com/Jasmin172002/documentation/assets/125138169/31902f12-da77-4ba1-bce1-dd19d462356e"
+
 The system will display a list of employees for the specified period, including employee info, earnings, deductions, benefits, and summary with take-home pay. Payslips will be saved successfully and automatically distributed to each employee.
 
 ### HR Management Functions
@@ -134,16 +136,22 @@ The system will display a list of employees for the specified period, including 
 3. Enter status (only "Regular" or "Probationary") and birthdate in "MM/DD/YYYY" format.
 4. Click "Save" and confirm the prompt to save the new employee data. If status or birth date format is invalid, an error message will be shown.
 
+<img src="https://github.com/Jasmin172002/documentation/assets/125138169/e38b0c34-f2a5-4e7f-95fd-27a795d8da42" alt="addem" width="500"/>
+
 #### Edit Employee Information:
 1. Click "Employees" and search by employee ID.
 2. Click the "Edit" button in the Action column.
 3. Update profile, job, account numbers, or salary details.
 4. Click "Save" and confirm the prompt to save the changes.
 
+<img src="https://github.com/Jasmin172002/documentation/assets/125138169/6a0f7ee2-dddf-42d7-a567-f77388c0fe2f" alt="editem" width="500"/>
+
 #### View and Delete Employee Information:
 1. Click "Employees" and search by employee ID.
 2. Click the "View" button in the Action column to display employee information.
 3. Click the "Delete" button in the Action column and confirm the prompt to delete the employee.
+
+<img src="https://github.com/Jasmin172002/documentation/assets/125138169/09fe8a54-6a14-49e8-8ba9-db092e01fb8a" alt="viewem" width="500"/>
 
 ### Leave Management
 
