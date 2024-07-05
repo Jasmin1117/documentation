@@ -116,6 +116,10 @@ This section covers various user-related actions within the system. The function
 
 <img src="https://github.com/Jasmin172002/documentation/assets/125138169/8825ce15-33b3-476b-9f43-64486adac451" alt="loginnot" width="500">
 
+#### Forgot Password:
+
+{insert steps}
+
 ### Payroll Generation Capability
 
 #### Generate and Save Payslips:
@@ -127,6 +131,15 @@ This section covers various user-related actions within the system. The function
 <img src="https://github.com/Jasmin172002/documentation/assets/125138169/19296a34-9114-4368-96dc-4c4556258216" alt="generatepaylip" width="500"/>
 
 The system will display a list of employees for the specified period, including employee info, earnings, deductions, benefits, and summary with take-home pay. Payslips will be saved successfully and automatically distributed to each employee.
+
+#### View and Edit Employee Payslips:
+1. Access the "Payslip" section from the dashboard.
+2. Review the payslip summary table showing pay period dates, total gross income, and net income per row.
+3. Click the "View" button to open a new frame/table listing employees with payslips for the selected period.
+4. Edit payslip details such as earnings, deductions, benefits, and net pay.
+5. Save changes to update the payslips for the respective employees.
+
+<img src="https://github.com/Jasmin172002/documentation/assets/125138169/630af10e-bd5f-48a2-af9e-49fe3f31e418" alt="editp" width="500"/>
 
 ### HR Management Functions
 
