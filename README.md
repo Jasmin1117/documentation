@@ -184,21 +184,31 @@ The system will display a list of employees for the specified period, including 
 1. Navigate to the self-service portal.
 2. View personal information, including personal details, allowance breakdown, and salary details.
 
+<img src="https://github.com/Jasmin172002/documentation/assets/125138169/ca391ba5-850d-4198-afa7-c684a7b913ad" alt="viewprof" style="width:500px;">
+
 #### Record Time In:
 1. Click "Timesheet" and then "Time In".
 2. Your time in is recorded and displayed in the table showing the date and time. If you click "Time In" again on the same day, an error message will be displayed.
+
+![timein](https://github.com/Jasmin172002/documentation/assets/125138169/63248cad-d969-4384-846a-0fc9dbf46053){ width=500px }
 
 #### Record Time Out:
 1. Click "Timesheet" and then "Time Out".
 2. Confirm the prompt to record your time out. Your time out is recorded and displayed in the table showing the date, time out, regular hours worked, and overtime hours. If you click "Time Out" again on the same day, an error message will be displayed.
 
+![timeout](https://github.com/Jasmin172002/documentation/assets/125138169/62e6e713-812d-432e-9010-8f0d1b1cc36c){ width=500px }
+
 #### Submit Leave Request:
 1. Click "Leave Request" and then "File a Leave Request".
 2. Select the leave type and submit the request. Your leave request is submitted, and your leave credits are updated if within the allowed credits. If exceeded, an error message is shown.
 
+![sickleave](https://github.com/Jasmin172002/documentation/assets/125138169/3c987bdc-f908-4411-a314-9a2f04171559){ width=500px }
+
 #### View Payslip:
 1. Click "Payslip" and select a payslip from the list.
 2. Your electronic payslip is displayed, containing earnings, deductions, benefits, and summary.
+
+![payslipv](https://github.com/Jasmin172002/documentation/assets/125138169/d194b470-4fca-4192-b773-29ed95b9565a){ width=500px }
 
 ### System Administrator Functionalities
 
