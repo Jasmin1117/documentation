@@ -225,10 +225,14 @@ The system will display a list of employees for the specified period, including 
 3. Update access level or click "Reset Password".
 4. Click "Update" or confirm the password reset. The user's access level is updated or password is reset.
 
+<img src="https://github.com/Jasmin172002/documentation/assets/125138169/54343d8d-eb68-4ab6-9081-a54eb73854e3" alt="ediuserr" style="width:500px;">
+
 #### View and Delete User:
 1. Click "User" and search by user ID.
 2. Click the "View" button in the Action column to display user details.
 3. Click the "Delete" button in the Action column and confirm the prompt to delete the user. The user is deleted.
+
+<img src="https://github.com/Jasmin172002/documentation/assets/125138169/f0fd1962-e11e-4b8c-9369-1ea841425289" alt="delete" style="width:500px;">
 
 #### Role-Based Access Control:
 The system implements role-based access control, ensuring users only have access to functionalities and data relevant to their roles. Security measures protect sensitive payroll and employee data, including encryption, access logs, and regular security audits.
