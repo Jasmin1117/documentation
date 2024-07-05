@@ -124,7 +124,7 @@ This section covers various user-related actions within the system. The function
 3. Click "Execute" to review the generated payslips.
 4. Click "Save" and confirm the prompt to save the payslips.
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/31902f12-da77-4ba1-bce1-dd19d462356e"
+<img src="https://github.com/Jasmin172002/documentation/assets/125138169/19296a34-9114-4368-96dc-4c4556258216" alt="generatepaylip" width="500"/>
 
 The system will display a list of employees for the specified period, including employee info, earnings, deductions, benefits, and summary with take-home pay. Payslips will be saved successfully and automatically distributed to each employee.
 
@@ -161,16 +161,22 @@ The system will display a list of employees for the specified period, including 
 3. Update the leave request status to "Approved" and click "Save".
 4. Confirm the prompt to approve the leave request.
 
+<img src="https://github.com/Jasmin172002/documentation/assets/125138169/54754eae-dc50-4dfc-99cb-f75099dfd142" alt="approve" width="500"/>
+
 #### Disapprove Leave Request:
 1. Click "Leave Request" and select "Pending" from the dropdown.
 2. Search by employee ID and click the "Edit" button in the Action column.
 3. Update the leave request status to "Disapproved" and click "Save".
 4. Confirm the prompt to disapprove the leave request.
 
+<img src="https://github.com/Jasmin172002/documentation/assets/125138169/753644bf-f96b-415c-b51a-aa1635f1fddc" alt="disapp" width="500"/>
+
 #### View and Delete Leave Request:
 1. Click "Leave Request" and search by employee ID.
 2. Click the "View" button in the Action column to display leave request details.
 3. Click the "Delete" button in the Action column and confirm the prompt to delete the leave request.
+
+<img src="https://github.com/Jasmin172002/documentation/assets/125138169/55c26bd2-46f5-4d01-9956-98a2b81ff867" alt="viewleave" style="width:500px;">
 
 ### Employee Self-Service Portal
 
