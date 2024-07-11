@@ -116,9 +116,16 @@ This section covers various user-related actions within the system. The function
 
 <img src="https://github.com/Jasmin172002/documentation/assets/125138169/8825ce15-33b3-476b-9f43-64486adac451" alt="loginnot" width="500">
 
-#### Forgot Password:
+#### Submit Forgot Password:
 
-{insert steps}
+1. Click "Forgot Password" below the login button on the application's login page.
+2. Enter your username to request password reset.
+3. Wait for the admin to send a verification code to your registered email or phone number.
+4. Receive the verification code and enter it on the password reset page.
+5. Set a new password following the password requirements provided.
+6. Log in using your new password.
+
+<img src="https://github.com/Jasmin172002/AOOPSRS/assets/125138169/fb2a1f1d-bf09-429e-afe2-378593691929" alt="forgotpass" width="500">
 
 ### Payroll Generation Capability
 
@@ -199,6 +206,16 @@ The system will display a list of employees for the specified period, including 
 
 <img src="https://github.com/Jasmin172002/documentation/assets/125138169/ca391ba5-850d-4198-afa7-c684a7b913ad" alt="viewprof" style="width:500px;">
 
+#### Change Password:
+1. Click "Profile" 
+2. Navigate to the "Change Password" tab within the employee profile.
+3. Enter your existing password into the provided field.
+4. Enter your new password
+5. Confirm your new password by entering it again.
+6. Click "Confirm" or "Update Password."
+
+<img src="https://github.com/Jasmin172002/AOOPSRS/assets/125138169/264dc06f-16a3-4b08-80ca-12ddcbf79d2d" alt="changemypass" width="500"/>
+
 #### Record Time In:
 1. Click "Timesheet" and then "Time In".
 2. Your time in is recorded and displayed in the table showing the date and time. If you click "Time In" again on the same day, an error message will be displayed.
@@ -259,6 +276,12 @@ The system will display a list of employees for the specified period, including 
 3. Click the "Delete" button in the Action column and confirm the prompt to delete the user. The user is deleted.
 
 <img src="https://github.com/Jasmin172002/documentation/assets/125138169/f0fd1962-e11e-4b8c-9369-1ea841425289" alt="delete" style="width:500px;">
+
+#### View Password Change Request:
+1. System Admin clicks on "Change Password Request" in the admin panel or menu.
+2. System Admin views a table displaying user IDs and corresponding verification codes for users who requested a password change.
+
+<img src="https://github.com/Jasmin172002/AOOPSRS/assets/125138169/e036a7db-c0b5-41b7-9a78-a6d5d871917a" alt="changepass" width="500">
 
 #### Role-Based Access Control:
 The system implements role-based access control, ensuring users only have access to functionalities and data relevant to their roles. Security measures protect sensitive payroll and employee data, including encryption, access logs, and regular security audits.
