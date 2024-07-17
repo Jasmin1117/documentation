@@ -101,20 +101,14 @@ This section covers various user-related actions within the system. The function
 4. Configure your SDK to Java 21.
 5. Build and run the application.
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/6036d93c-8913-4d3d-9269-2fd3f0a92b1d" alt="Loginfinal" width="500">
+![home](https://github.com/user-attachments/assets/4aaf2310-fad6-4353-879a-903005623265){:width="500px"}
 
 #### Log in with Valid Credentials:
 1. Click on the username text field and type the username.
 2. Click on the password text field and type the password.
 3. Click the Login button to access your profile page.
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/10f8fbb0-06ff-4356-a376-c5d4c8112997" alt="loginsuc" width="500">
-
-#### Log in with Invalid Credentials:
-1. Click on the username text field and type an incorrect username or password.
-2. Click the Login button to see an error message stating, "We couldn't find an account that matches what you entered."
-
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/8825ce15-33b3-476b-9f43-64486adac451" alt="loginnot" width="500">
+![sucesslogin](https://github.com/user-attachments/assets/552542f0-d34b-4bb6-9aca-1e27668a52a6){:width="500px"}
 
 #### Submit Forgot Password:
 
@@ -125,7 +119,7 @@ This section covers various user-related actions within the system. The function
 5. Set a new password following the password requirements provided.
 6. Log in using your new password.
 
-<img src="https://github.com/Jasmin172002/AOOPSRS/assets/125138169/fb2a1f1d-bf09-429e-afe2-378593691929" alt="forgotpass" width="500">
+![forgotpassword](https://github.com/user-attachments/assets/aabced58-4299-43a4-b6fe-6d34fbee41a8){:width="500px"}
 
 ### Payroll Generation Capability
 
@@ -135,7 +129,7 @@ This section covers various user-related actions within the system. The function
 3. Click "Execute" to review the generated payslips.
 4. Click "Save" and confirm the prompt to save the payslips.
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/19296a34-9114-4368-96dc-4c4556258216" alt="generatepaylip" width="500"/>
+![generatepay](https://github.com/user-attachments/assets/ec16e37c-3cce-4416-b626-1e211a674dda){:width="500px"}
 
 The system will display a list of employees for the specified period, including employee info, earnings, deductions, benefits, and summary with take-home pay. Payslips will be saved successfully and automatically distributed to each employee.
 
@@ -146,7 +140,7 @@ The system will display a list of employees for the specified period, including 
 4. Edit payslip details such as earnings, deductions, benefits, and net pay.
 5. Save changes to update the payslips for the respective employees.
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/630af10e-bd5f-48a2-af9e-49fe3f31e418" alt="editp" width="500"/>
+![editpayslip](https://github.com/user-attachments/assets/2e1065af-871a-44d0-a896-e26ff5cb0f23){:width="500px"}
 
 ### HR Management Functions
 
@@ -156,7 +150,7 @@ The system will display a list of employees for the specified period, including 
 3. Enter status (only "Regular" or "Probationary") and birthdate in "MM/DD/YYYY" format.
 4. Click "Save" and confirm the prompt to save the new employee data. If status or birth date format is invalid, an error message will be shown.
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/e38b0c34-f2a5-4e7f-95fd-27a795d8da42" alt="addem" width="500"/>
+![addem](https://github.com/user-attachments/assets/c4ebbe15-ce8e-4136-bb14-45b1be2881df){:width="500px"}
 
 #### Edit Employee Information:
 1. Click "Employees" and search by employee ID.
@@ -164,14 +158,14 @@ The system will display a list of employees for the specified period, including 
 3. Update profile, job, account numbers, or salary details.
 4. Click "Save" and confirm the prompt to save the changes.
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/6a0f7ee2-dddf-42d7-a567-f77388c0fe2f" alt="editem" width="500"/>
+![editem](https://github.com/user-attachments/assets/23911efc-06cc-4655-bb41-ed152d000d81){:width="500px"}
 
 #### View and Delete Employee Information:
 1. Click "Employees" and search by employee ID.
 2. Click the "View" button in the Action column to display employee information.
 3. Click the "Delete" button in the Action column and confirm the prompt to delete the employee.
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/09fe8a54-6a14-49e8-8ba9-db092e01fb8a" alt="viewem" width="500"/>
+![delete](https://github.com/user-attachments/assets/57286280-f9ea-4055-bc00-c1f6ee9fbad8){:width="500px"}
 
 ### Leave Management
 
@@ -181,7 +175,7 @@ The system will display a list of employees for the specified period, including 
 3. Update the leave request status to "Approved" and click "Save".
 4. Confirm the prompt to approve the leave request.
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/54754eae-dc50-4dfc-99cb-f75099dfd142" alt="approve" width="500"/>
+![approve](https://github.com/user-attachments/assets/595a7434-025f-4dd7-8cdb-6e56f3e13c3a){:width="500px"}
 
 #### Disapprove Leave Request:
 1. Click "Leave Request" and select "Pending" from the dropdown.
@@ -189,14 +183,14 @@ The system will display a list of employees for the specified period, including 
 3. Update the leave request status to "Disapproved" and click "Save".
 4. Confirm the prompt to disapprove the leave request.
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/753644bf-f96b-415c-b51a-aa1635f1fddc" alt="disapp" width="500"/>
+![disap](https://github.com/user-attachments/assets/7b6cf2ca-f985-4a55-bd5c-8901228b0f03){:width="500px"}
 
 #### View and Delete Leave Request:
 1. Click "Leave Request" and search by employee ID.
 2. Click the "View" button in the Action column to display leave request details.
 3. Click the "Delete" button in the Action column and confirm the prompt to delete the leave request.
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/55c26bd2-46f5-4d01-9956-98a2b81ff867" alt="viewleave" style="width:500px;">
+![deleterequest](https://github.com/user-attachments/assets/d5912217-4186-4e1d-a434-457f412a8f40){:width="500px"}
 
 ### Employee Self-Service Portal
 
@@ -204,7 +198,7 @@ The system will display a list of employees for the specified period, including 
 1. Navigate to the self-service portal.
 2. View personal information, including personal details, allowance breakdown, and salary details.
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/ca391ba5-850d-4198-afa7-c684a7b913ad" alt="viewprof" style="width:500px;">
+![vieww](https://github.com/user-attachments/assets/aa9c6c01-9bba-4c25-8aa6-b0f30b2b43c7){:width="500px"}
 
 #### Change Password:
 1. Click "Profile" 
@@ -214,31 +208,31 @@ The system will display a list of employees for the specified period, including 
 5. Confirm your new password by entering it again.
 6. Click "Confirm" or "Update Password."
 
-<img src="https://github.com/Jasmin172002/AOOPSRS/assets/125138169/264dc06f-16a3-4b08-80ca-12ddcbf79d2d" alt="changemypass" width="500"/>
+![changepass](https://github.com/user-attachments/assets/aee99097-fd6c-4aec-9321-9e6038c5c5ca){:width="500px"}
 
 #### Record Time In:
 1. Click "Timesheet" and then "Time In".
 2. Your time in is recorded and displayed in the table showing the date and time. If you click "Time In" again on the same day, an error message will be displayed.
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/63248cad-d969-4384-846a-0fc9dbf46053" alt="timein" style="width:500px;">
+![timeinn](https://github.com/user-attachments/assets/cb833416-520e-4844-bfc6-fc2a7854c23e){:width="500px"}
 
 #### Record Time Out:
 1. Click "Timesheet" and then "Time Out".
 2. Confirm the prompt to record your time out. Your time out is recorded and displayed in the table showing the date, time out, regular hours worked, and overtime hours. If you click "Time Out" again on the same day, an error message will be displayed.
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/62e6e713-812d-432e-9010-8f0d1b1cc36c" alt="timeout" style="width:500px;">
+![timeoutt](https://github.com/user-attachments/assets/375394cb-0ef0-444d-9058-0f7c38bc4357){:width="500px"}
 
 #### Submit Leave Request:
 1. Click "Leave Request" and then "File a Leave Request".
 2. Select the leave type and submit the request. Your leave request is submitted, and your leave credits are updated if within the allowed credits. If exceeded, an error message is shown.
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/3c987bdc-f908-4411-a314-9a2f04171559" alt="sickleave" style="width:500px;">
+![submit](https://github.com/user-attachments/assets/c7333a69-5a20-45a6-90c6-d9ed43f0b6c1){:width="500px"}
 
 #### View Payslip:
 1. Click "Payslip" and select a payslip from the list.
 2. Your electronic payslip is displayed, containing earnings, deductions, benefits, and summary.
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/d194b470-4fca-4192-b773-29ed95b9565a" alt="payslipv" style="width:500px;">
+![viewp](https://github.com/user-attachments/assets/84659770-0d10-4723-81b3-777b3b403856){:width="500px"}
 
 ### Reporting Capabilities for Finance
 
@@ -249,9 +243,9 @@ The system will display a list of employees for the specified period, including 
 3. Click "Execute" to review the generated payslips of all employees. The list of employees for the specified period is displayed, including employee info, earnings, deductions, benefits, and summary with take-home pay.
 4. The system includes a dashboard for reporting and analytics, providing insights into payroll trends, employee attendance patterns, and leave utilization.
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/19296a34-9114-4368-96dc-4c4556258216" alt="generatepaylip" width="500"/>
+![generatepay](https://github.com/user-attachments/assets/ec16e37c-3cce-4416-b626-1e211a674dda){:width="500px"}
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/e6ece67b-6a3b-48f0-a3e0-c408c184fb27" alt="fdashboard" style="width:500px;">
+![paydashboard](https://github.com/user-attachments/assets/4a2e7bf5-dcfd-42ad-a902-a4d58e1e99bb){:width="500px"}
 
 ### System Administrator Functionalities
 
@@ -260,7 +254,7 @@ The system will display a list of employees for the specified period, including 
 2. Type employee ID, username, password, and access level (employee, payroll, HR, system administrator, executive, account administrator).
 3. Click "Save" and confirm the prompt to add the new user. The new user is added and displayed in the table.
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/df351a08-5e1b-4bab-8683-e2250c6bea88" alt="newuser" style="width:500px;">
+![adduser](https://github.com/user-attachments/assets/217dbb05-357c-4916-8e2e-686d703b75bc){:width="500px"}
 
 #### Edit User and Reset Password:
 1. Click "User" and search by user ID.
@@ -268,20 +262,20 @@ The system will display a list of employees for the specified period, including 
 3. Update access level or click "Reset Password".
 4. Click "Update" or confirm the password reset. The user's access level is updated or password is reset.
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/54343d8d-eb68-4ab6-9081-a54eb73854e3" alt="ediuserr" style="width:500px;">
+![shhs](https://github.com/user-attachments/assets/b37065fc-1eaa-46a1-ac8e-7570e96f014a){:width="500px"}
 
 #### View and Delete User:
 1. Click "User" and search by user ID.
 2. Click the "View" button in the Action column to display user details.
 3. Click the "Delete" button in the Action column and confirm the prompt to delete the user. The user is deleted.
 
-<img src="https://github.com/Jasmin172002/documentation/assets/125138169/f0fd1962-e11e-4b8c-9369-1ea841425289" alt="delete" style="width:500px;">
+![vandd](https://github.com/user-attachments/assets/8d2dfe62-a594-490b-b51a-a472e3b644a4){:width="500px"}
 
 #### View Password Change Request:
 1. System Admin clicks on "Change Password Request" in the admin panel or menu.
 2. System Admin views a table displaying user IDs and corresponding verification codes for users who requested a password change.
 
-<img src="https://github.com/Jasmin172002/AOOPSRS/assets/125138169/e036a7db-c0b5-41b7-9a78-a6d5d871917a" alt="changepass" width="500">
+![code](https://github.com/user-attachments/assets/0bcf8d23-89d7-4ef0-b7e5-953a60c97cf0){:width="500px"}
 
 #### Role-Based Access Control:
 The system implements role-based access control, ensuring users only have access to functionalities and data relevant to their roles. Security measures protect sensitive payroll and employee data, including encryption, access logs, and regular security audits.
