@@ -169,6 +169,15 @@ The system will display a list of employees for the specified period, including 
 
 ### Leave Management
 
+#### File Employee Leave:
+1. Click "Leave Request" and then "File Employee Leave".
+2. Enter the Employee ID and confirm.
+3. Select the leave type from the dropdown menu.
+4. Choose the leave duration and provide an explanation.
+5. Click "Submit" to finalize the leave request. Your leave request will be submitted successfully. If your request exceeds your available leave credits, an error message will be displayed.
+
+![last](https://github.com/user-attachments/assets/5239b9cf-d6cf-4505-901f-a355e32f4538){:width="500px"}
+
 #### Approve Leave Request:
 1. Click "Leave Request" and select "Pending" from the dropdown.
 2. Search by employee ID and click the "Edit" button in the Action column.
